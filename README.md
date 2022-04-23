@@ -1,4 +1,4 @@
-# HousePrice - Advance Regression
+# Telecom Churn Case Study
 
 ## Business Understanding
 
